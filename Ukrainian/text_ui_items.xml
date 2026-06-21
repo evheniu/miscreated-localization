@@ -232,7 +232,7 @@
             <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx15</Data></Cell>
     <Cell><Data ss:Type="String">15Rnd Vector 10mm</Data></Cell>
-    <Cell><Data ss:Type="String">15-зарядний магазин Vector 10 мм</Data></Cell>
+    <Cell><Data ss:Type="String">15 набоїв Vector 10 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx15Description</Data></Cell>
@@ -246,7 +246,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd MP55 10mm</Data></Cell>
-    <Cell><Data ss:Type="String">30-зарядний магазин MP55 10 мм</Data></Cell>
+    <Cell><Data ss:Type="String">30 набоїв MP55 10 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">10mmx30Description</Data></Cell>
@@ -262,7 +262,7 @@
                         ss:Type="String"
                     >12Gaugex8_Beanbag_AA12</Data></Cell>
     <Cell><Data ss:Type="String">8Rnd 12ga Beanbag</Data></Cell>
-    <Cell><Data ss:Type="String">8 набоїв 12-го калібру типу дроб</Data></Cell>
+    <Cell><Data ss:Type="String">8 набоїв 12-го калібру (гумових)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -273,14 +273,14 @@
                     >A 12 gauge mag with a 8 round beanbag capacity</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >12-каліберний магазин місткістю 8 набоїв із дробом</Data></Cell>
+                    >Магазин 12 калібру (8 гумових набоїв)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >12Gaugex8_Pellet_AA12</Data></Cell>
     <Cell><Data ss:Type="String">8Rnd 12ga Buckshot</Data></Cell>
-    <Cell><Data ss:Type="String">8 набоїв картеч 12-калібер</Data></Cell>
+    <Cell><Data ss:Type="String">8 набоїв 12-го калібру (картеч)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -289,14 +289,12 @@
     <Cell><Data
                         ss:Type="String"
                     >A 12 gauge mag with a 8 round buckshot capacity</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >12-каліберний магазин місткістю 8 набоїв з картеччю</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 12 калібру на 8 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">12Gaugex8_Slug_AA12</Data></Cell>
     <Cell><Data ss:Type="String">8Rnd 12ga Slug</Data></Cell>
-    <Cell><Data ss:Type="String">8 патронів 12-го калібру з кулею</Data></Cell>
+    <Cell><Data ss:Type="String">8 набоїв 12-го калібру (куля)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -305,12 +303,12 @@
     <Cell><Data
                         ss:Type="String"
                     >A 12 gauge mag with a 8 round slug capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магніт 12 калібру з 8 патронами</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 12 калібру на 8 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">22x10_ruger</Data></Cell>
     <Cell><Data ss:Type="String">10Rnd .22</Data></Cell>
-    <Cell><Data ss:Type="String">10 Rnd .22</Data></Cell>
+    <Cell><Data ss:Type="String">10 набоїв .22</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -319,24 +317,24 @@
     <Cell><Data
                         ss:Type="String"
                     >A .22 magazine with a 10 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин .22 на 10 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин .22 на 10 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">357x14</Data></Cell>
     <Cell><Data ss:Type="String">14Rnd .357</Data></Cell>
-    <Cell><Data ss:Type="String">14 Rnd .357</Data></Cell>
+    <Cell><Data ss:Type="String">14 набоїв .357</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">357x14Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A 357 magazine with a 14 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин 357 на 14 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 357 на 14 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">545x30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd 5.45mm</Data></Cell>
-    <Cell><Data ss:Type="String">30 Rnd 5,45 мм</Data></Cell>
+    <Cell><Data ss:Type="String">30 набоїв 5,45 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">545x30Description</Data></Cell>
@@ -345,12 +343,12 @@
                     >A 5.45mm magazine with a 30 round capacity (for AK74U)</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин 5,45 мм на 30 патронів (для AK74U)</Data></Cell>
+                    >Магазин 5,45 мм на 30 набоїв (для AK74U)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">556x100</Data></Cell>
     <Cell><Data ss:Type="String">5.56 Box</Data></Cell>
-    <Cell><Data ss:Type="String">5.56 Пачка</Data></Cell>
+    <Cell><Data ss:Type="String">5.56 Боєкомплект</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">556x100Description</Data></Cell>
@@ -359,7 +357,7 @@
                     >A large box magazine with a 100 round capacity</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Великий коробчатий магазин місткістю 100 патронів</Data></Cell>
+                    >Великий коробчатий магазин місткістю 100 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">556x30_ak5d</Data></Cell>
@@ -375,12 +373,12 @@
                     >A 30 rounds 5.56 magazine for the AK5D</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин на 30 патронів 5,56 для AK5D</Data></Cell>
+                    >Магазин на 30 набоїв 5,56 для AK5D</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">57x50</Data></Cell>
     <Cell><Data ss:Type="String">50Rnd 5.7mm</Data></Cell>
-    <Cell><Data ss:Type="String">50 Rnd 5,7 мм</Data></Cell>
+    <Cell><Data ss:Type="String">50 набоїв 5,7 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">57x50Description</Data></Cell>
@@ -389,7 +387,7 @@
                     >A 5.7mm magazine with a 50 round capacity</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин калібру 5,7 мм на 50 патронів</Data></Cell>
+                    >Магазин калібру 5,7 мм на 50 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x20_Akval</Data></Cell>
@@ -403,24 +401,24 @@
     <Cell><Data
                         ss:Type="String"
                     >A 20 rounds magazine for the AKVal</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин на 20 патронів для АКВал</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин на 20 набоїв для АКВал</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd 7.62mm</Data></Cell>
-    <Cell><Data ss:Type="String">30 Rnd 7,62 мм</Data></Cell>
+    <Cell><Data ss:Type="String">30 набоїв 7,62 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x30Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A 7.62x39 magazine with a 30 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин 7,62x39 на 30 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 7,62x39 на 30 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x5</Data></Cell>
     <Cell><Data ss:Type="String">5Rnd ACAW 7.62</Data></Cell>
-    <Cell><Data ss:Type="String">5-й ACAW 7.62</Data></Cell>
+    <Cell><Data ss:Type="String">5 набоїв ACAW 7.62</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">762x5Description</Data></Cell>
@@ -429,24 +427,24 @@
                     >A 7.62x51 magazine with a 5 round capacity (for ACAW)</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин 7,62x51 на 5 патронів (для ACAW)</Data></Cell>
+                    >Магазин 7,62x51 на 5 набоїв (для ACAW)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10</Data></Cell>
     <Cell><Data ss:Type="String">10Rnd 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">10 Rnd 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">10 набоїв 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A 9mm magazine with a 10 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин 9 мм на 10 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 9 мм на 10 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx10_makarov</Data></Cell>
     <Cell><Data ss:Type="String">10Rnd Makarov 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">10-й Макаров 9мм</Data></Cell>
+    <Cell><Data ss:Type="String">10 набоїв Макаров 9мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -457,12 +455,12 @@
                     >A 9mm magazine for a Makarov with a 10 round capacity</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин 9 мм для Макарова на 10 патронів</Data></Cell>
+                    >Магазин 9 мм для Макарова на 10 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx15_m9a1</Data></Cell>
     <Cell><Data ss:Type="String">15Rnd M9A1 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">15 Rnd M9A1 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">15 набоїв M9A1 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -473,24 +471,24 @@
                     >A 9mm magazine with a 15 round capacity (for M9A1)</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин 9 мм на 15 патронів (для M9A1)</Data></Cell>
+                    >Магазин 9 мм на 15 набоїв (для M9A1)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19</Data></Cell>
     <Cell><Data ss:Type="String">19Rnd 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">19 Rnd 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">19 набоїв 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A 9mm magazine with a 19 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин 9 мм на 19 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин 9 мм на 19 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx19_ap85</Data></Cell>
     <Cell><Data ss:Type="String">19Rnd AP85 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">19-й AP85 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">19 набоїв AP85 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -501,21 +499,19 @@
                     >A 9mm magazine with a 19 round capacity (for AP85)</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин 9 мм на 19 патронів (для AP85)</Data></Cell>
+                    >Магазин 9 мм на 19 набоїв (для AP85)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx33</Data></Cell>
     <Cell><Data ss:Type="String">33Rnd 9mm</Data></Cell>
-    <Cell><Data ss:Type="String">33Rnd 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">33 набоїв 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9mmx33Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A 9mm magazine with a 33 round capacity</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Магазин калібру 9 мм на 33 патрони</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин калібру 9 мм на 33 набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">9x19_mac10</Data></Cell>
@@ -531,7 +527,7 @@
                     >A 30 rounds magazine for a MAK10 smg.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин на 30 патронів для автомата МАК10.</Data></Cell>
+                    >Магазин на 30 набоїв для автомата МАК10.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AA12</Data></Cell>
@@ -557,9 +553,7 @@
     <Cell><Data
                         ss:Type="String"
                     >Bolt action rifle. Fires 7.62 rounds.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Затворна гвинтівка. Вистрілює 7,62 патронів.</Data></Cell>
+    <Cell><Data ss:Type="String">Затворна гвинтівка. Калібр 7,62</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AK5D</Data></Cell>
@@ -587,7 +581,7 @@
                     >Military semi/fully automatic rifle. Fires 5.45 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Військова напівавтоматична гвинтівка. Вистрілює 5,45 патронів.</Data></Cell>
+                    >Військова напівавтоматична гвинтівка. Калібр 5,45</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AKM</Data></Cell>
@@ -601,7 +595,7 @@
                     >Military semi/fully automatic rifle. Fires 7.62 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Військова напівавтоматична гвинтівка. Вистрілює 7,62 патронів.</Data></Cell>
+                    >Військова напівавтоматична гвинтівка. Калібр 7,62</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AKMGold</Data></Cell>
@@ -615,7 +609,7 @@
                     >Gold Military semi/fully automatic rifle. Fires 7.62 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматична гвинтівка Gold Military. Вистрілює 7,62 патронів.</Data></Cell>
+                    >Напівавтоматична гвинтівка Gold Military. Калібр 7,62</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AKVal</Data></Cell>
@@ -643,7 +637,7 @@
                     >A semi-auto pistol. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматичний пістолет. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AT15</Data></Cell>
@@ -667,7 +661,7 @@
                     >A Haakon and Ketel AUMP .45 Submachine gun.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Пістолет-кулемет Haakon and Ketel AUMP .45.</Data></Cell>
+                    >Пістолет-кулемет Haakon and Ketel AUMP .45</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AdrenalineSyringe</Data></Cell>
@@ -751,7 +745,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_10mm</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 10x25mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 10х25 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 10х25 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -807,9 +801,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_12Gauge_Slug</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений ящик для боєприпасів 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для боєприпасів 12ga Slug</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -825,12 +817,12 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_22</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box .22x15mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів .22x15 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .22x15 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_223</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box .223x45mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів .223x45 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .223x45 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -857,7 +849,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_308</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box .308x51mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів .308x51 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .308x51 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -873,7 +865,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_357</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box .357x33mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів .357x33 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .357x33 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -889,7 +881,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_5_45x39</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 5.45x39mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 5,45х39 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 5,45х39 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -905,7 +897,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_5_56x45</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 5.56x45mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 5,56х45 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 5,56х45 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -921,7 +913,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_5_70x28</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 5.70x28mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 5,70х28 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 5,70х28 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -937,7 +929,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_7_62x39</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 7.62x39mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 7,62х39 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 7,62х39 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -953,7 +945,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_7_62x51</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 7.62x51mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 7,62х51 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 7,62х51 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -969,7 +961,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_9mm</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box 9x19mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів 9х19 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв 9х19 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -985,7 +977,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AmmoBox_acp_45</Data></Cell>
     <Cell><Data ss:Type="String">Ammo Box .45x23mm</Data></Cell>
-    <Cell><Data ss:Type="String">Ящик для патронів .45x23 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .45x23 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -1278,7 +1270,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Axe</Data></Cell>
     <Cell><Data ss:Type="String">Axe</Data></Cell>
-    <Cell><Data ss:Type="String">сокира</Data></Cell>
+    <Cell><Data ss:Type="String">Сокира</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">AxeDescription</Data></Cell>
@@ -1702,7 +1694,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BarbedWireCoil</Data></Cell>
     <Cell><Data ss:Type="String">Barbed Wire Coil</Data></Cell>
-    <Cell><Data ss:Type="String">Котушка з колючого дроту</Data></Cell>
+    <Cell><Data ss:Type="String">Моток колючого дроту</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -1713,7 +1705,7 @@
                     >This coil of barbed wire can be used in base construction.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Цю котушку з колючого дроту можна використовувати в будівництві основи.</Data></Cell>
+                    >Цей моток з колючого дроту можна використовувати в будівництві бази.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BaseballBat</Data></Cell>
@@ -2207,7 +2199,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeetsCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Beets</Data></Cell>
-    <Cell><Data ss:Type="String">варений буряк</Data></Cell>
+    <Cell><Data ss:Type="String">Готовий буряк</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2219,7 +2211,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeetsDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of beets</Data></Cell>
-    <Cell><Data ss:Type="String">Купа буряка</Data></Cell>
+    <Cell><Data ss:Type="String">Стос буряка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeetsRotten</Data></Cell>
@@ -2235,7 +2227,7 @@
                     >A pile of rotten beets. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа гнилих буряків. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
+                    >Стос гнилих буряків. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2521,7 +2513,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretBrownFlagCanada</Data></Cell>
     <Cell><Data ss:Type="String">Brown CA Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Brown CA Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Коричневий військовий берет CA</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2537,7 +2529,7 @@
                         ss:Type="String"
                     >BeretBrownFlagGermany</Data></Cell>
     <Cell><Data ss:Type="String">Brown DE Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Brown DE Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Коричневий військовий берет DE</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2551,7 +2543,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretBrownFlagIsrael</Data></Cell>
     <Cell><Data ss:Type="String">Brown IL Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Brown IL Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Військовий берет Коричневий І.Л</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2565,7 +2557,9 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretBrownFlagUk</Data></Cell>
     <Cell><Data ss:Type="String">Brown UK Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Brown UK Military Beret</Data></Cell>
+    <Cell><Data
+                        ss:Type="String"
+                    >Коричневий військовий берет Великобританії</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2579,7 +2573,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretBrownFlagUsa</Data></Cell>
     <Cell><Data ss:Type="String">Brown US Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Brown US Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Коричневий військовий берет США</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2593,7 +2587,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreen</Data></Cell>
     <Cell><Data ss:Type="String">Green Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Зелений військовий берет</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2607,7 +2601,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreenFlagAu</Data></Cell>
     <Cell><Data ss:Type="String">Green AU Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green AU Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Зелений військовий берет АС</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2623,7 +2617,7 @@
                         ss:Type="String"
                     >BeretGreenFlagBelgium</Data></Cell>
     <Cell><Data ss:Type="String">Green BE Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green BE Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Військовий берет Зелений Б.Є</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2637,7 +2631,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreenFlagCanada</Data></Cell>
     <Cell><Data ss:Type="String">Green CA Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green CA Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Зелений військовий берет CA</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2653,7 +2647,7 @@
                         ss:Type="String"
                     >BeretGreenFlagGermany</Data></Cell>
     <Cell><Data ss:Type="String">Green DE Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green DE Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Військовий берет Green DE</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2667,21 +2661,21 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreenFlagIsrael</Data></Cell>
     <Cell><Data ss:Type="String">Green IL Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green IL Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Військовий берет Зелений І.Л</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >BeretGreenFlagIsraelDescription</Data></Cell>
     <Cell><Data ss:Type="String">A beret usually worn by soldiers</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Берет, який зазвичай носять солдати</Data></Cell>
+    <Cell><Data ss:Type="String">A beret usually worn by soldiers</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreenFlagUk</Data></Cell>
     <Cell><Data ss:Type="String">Green UK Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green UK Military Beret</Data></Cell>
+    <Cell><Data
+                        ss:Type="String"
+                    >Зелений військовий берет Великобританії</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2695,7 +2689,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretGreenFlagUsa</Data></Cell>
     <Cell><Data ss:Type="String">Green US Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Green US Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Зелений військовий берет США</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2709,7 +2703,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRed</Data></Cell>
     <Cell><Data ss:Type="String">Red Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedDescription</Data></Cell>
@@ -2721,7 +2715,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedFlagAu</Data></Cell>
     <Cell><Data ss:Type="String">Red AU Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red AU Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет АС</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2735,7 +2729,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedFlagBelgium</Data></Cell>
     <Cell><Data ss:Type="String">Red BE Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red BE Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет Б.Е</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2749,7 +2743,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedFlagCanada</Data></Cell>
     <Cell><Data ss:Type="String">Red CA Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red CA Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет CA</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2763,7 +2757,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedFlagGermany</Data></Cell>
     <Cell><Data ss:Type="String">Red DE Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red DE Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет DE</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -2777,7 +2771,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BeretRedFlagIsrael</Data></Cell>
     <Cell><Data ss:Type="String">Red IL Military Beret</Data></Cell>
-    <Cell><Data ss:Type="String">Red IL Military Beret</Data></Cell>
+    <Cell><Data ss:Type="String">Червоний військовий берет ІЛ</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -3282,7 +3276,7 @@
                         ss:Type="String"
                     >Boltx5_F000Description</Data></Cell>
     <Cell><Data ss:Type="String">A bundle of fire aluminum bolts</Data></Cell>
-    <Cell><Data ss:Type="String">Пучок пожежних алюмінієвих болтів</Data></Cell>
+    <Cell><Data ss:Type="String">Стос алюмінієвих болтів</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Bread</Data></Cell>
@@ -3376,7 +3370,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeasDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of brush peas.</Data></Cell>
-    <Cell><Data ss:Type="String">Купа щіткового гороху.</Data></Cell>
+    <Cell><Data ss:Type="String">Стос щіткового гороху.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">BrushPeasRotten</Data></Cell>
@@ -3388,7 +3382,7 @@
                         ss:Type="String"
                     >BrushPeasRottenDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of rotten brush peas.</Data></Cell>
-    <Cell><Data ss:Type="String">Купа гнилого гороху.</Data></Cell>
+    <Cell><Data ss:Type="String">Стос гнилого гороху.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -3593,7 +3587,7 @@
                         ss:Type="String"
                     >ButtonUpShirtDarkGreyChekered</Data></Cell>
     <Cell><Data ss:Type="String">Dark Grey Checkered Shirt</Data></Cell>
-    <Cell><Data ss:Type="String">Темно-сіра картата сорочка</Data></Cell>
+    <Cell><Data ss:Type="String">Темно-сіра сорочка в клітку</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -3938,7 +3932,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">C4Bricks</Data></Cell>
     <Cell><Data ss:Type="String">C4 Bricks</Data></Cell>
-    <Cell><Data ss:Type="String">С4 Цегла</Data></Cell>
+    <Cell><Data ss:Type="String">Заряд С4</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">C4BricksDescription</Data></Cell>
@@ -3947,7 +3941,7 @@
                     >C4 Bricks. Can be used in crafting.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >С4 Цегла. Можна використовувати в крафті.</Data></Cell>
+                    >Заряд С4. Можна використовувати в крафті.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">C4TimedPickup</Data></Cell>
@@ -3968,7 +3962,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CX4Storm</Data></Cell>
     <Cell><Data ss:Type="String">Cx8 Storm</Data></Cell>
-    <Cell><Data ss:Type="String">Cx8 Буря</Data></Cell>
+    <Cell><Data ss:Type="String">Cx8 Storm</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CX4StormDescription</Data></Cell>
@@ -3977,7 +3971,7 @@
                     >An Italian made Cx8 Storm rifle. Fires ACP .45 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Гвинтівка Cx8 Storm італійського виробництва. Стріляє патронами ACP .45.</Data></Cell>
+                    >Гвинтівка Cx8 Storm італійського виробництва. Стріляє набоями ACP .45.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CamoNetting</Data></Cell>
@@ -4113,7 +4107,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CandleDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted candle.</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​свічка.</Data></Cell>
+    <Cell><Data ss:Type="String">Свічка.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CannedMeat</Data></Cell>
@@ -4687,7 +4681,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Cb_radio</Data></Cell>
     <Cell><Data ss:Type="String">Survivotron VI</Data></Cell>
-    <Cell><Data ss:Type="String">Сурвівотрон VI</Data></Cell>
+    <Cell><Data ss:Type="String">Рація</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Cb_radioDescription</Data></Cell>
@@ -4836,7 +4830,7 @@
                     >Cooked chicken meat. Looks delicious.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Варене куряче м'ясо. Виглядає смачно.</Data></Cell>
+                    >Готове куряче м'ясо. Виглядає смачно.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ChickenRaw</Data></Cell>
@@ -5104,7 +5098,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CivCanteen01</Data></Cell>
     <Cell><Data ss:Type="String">Canteen</Data></Cell>
-    <Cell><Data ss:Type="String">Їдальня</Data></Cell>
+    <Cell><Data ss:Type="String">фляга</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5118,7 +5112,7 @@
                         ss:Type="String"
                     >CivCanteen01Description</Data></Cell>
     <Cell><Data ss:Type="String">A basic refillable canteen.</Data></Cell>
-    <Cell><Data ss:Type="String">Основна багаторазова їдальня.</Data></Cell>
+    <Cell><Data ss:Type="String">Основна багаторазова фляга.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5132,7 +5126,7 @@
                         ss:Type="String"
                     >CivCanteen01WithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ClamChowder</Data></Cell>
@@ -5264,7 +5258,7 @@
     <Cell><Data
                         ss:Type="String"
                     >.357 Revolver with 6 round capacity.</Data></Cell>
-    <Cell><Data ss:Type="String">.357 Револьвер на 6 патронів.</Data></Cell>
+    <Cell><Data ss:Type="String">.357 Револьвер на 6 набоїв.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ColtPythonGrimeyRick</Data></Cell>
@@ -5280,7 +5274,7 @@
                     >A special edition 6 round .357 Revolver.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Спеціальна версія револьвера .357 з 6 патронами.</Data></Cell>
+                    >Спеціальна версія револьвера .357 з 6 набоями.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CombatBootsBlack</Data></Cell>
@@ -5490,9 +5484,7 @@
     <Cell><Data
                         ss:Type="String"
                     >A crafted bundle of poisoned arrows</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлена ​​зв’язка отруєних стріл</Data></Cell>
+    <Cell><Data ss:Type="String">Зв’язка отруєних стріл</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedArrowx8_00R0</Data></Cell>
@@ -5599,7 +5591,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedBow</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Bow</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений лук</Data></Cell>
+    <Cell><Data ss:Type="String">Лук</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5633,7 +5625,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedFannyPack</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Fanny Pack</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​поясна сумка</Data></Cell>
+    <Cell><Data ss:Type="String">Поясна сумка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5644,12 +5636,12 @@
                     >A crafted fanny pack made out of rolled rags.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлена ​​поясна сумка зі згорнутих ганчірок.</Data></Cell>
+                    >Поясна сумка зі згорнутих ганчірок.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedHammer</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Hammer</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений молоток</Data></Cell>
+    <Cell><Data ss:Type="String">Молоток</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5660,12 +5652,12 @@
                     >A crafted hammer. Could be useful for harvesting metal.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлений молоток. Може бути корисним для збирання металу.</Data></Cell>
+                    >Молоток. Може бути корисним для збирання металу.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedHatchet</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Hatchet</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​сокира</Data></Cell>
+    <Cell><Data ss:Type="String">Сокира</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5676,12 +5668,12 @@
                     >A crafted hatchet. Good for harvesting wood.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлена ​​сокира. Добре підходить для заготівлі деревини.</Data></Cell>
+                    >Сокира. Добре підходить для заготівлі деревини.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedLongPistol</Data></Cell>
     <Cell><Data ss:Type="String">Crafted 9mm Long Pistol</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений пістолет 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Пістолет 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5692,12 +5684,12 @@
                     >A semi-auto long barrel crafted pistol. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний довгоствольний пістолет. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматичний довгоствольний пістолет. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPickaxe</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Pickaxe</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​кирка</Data></Cell>
+    <Cell><Data ss:Type="String">Кайло</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5708,19 +5700,17 @@
                     >A crafted pickaxe. Could be useful for collecting rocks.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлена ​​кирка. Може бути корисним для збору каміння.</Data></Cell>
+                    >Кайло. Може бути корисним для збору каміння.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPistol</Data></Cell>
     <Cell><Data ss:Type="String">Crafted 9mm Pistol</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений пістолет калібру 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Пістолет калібр 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedPistol556</Data></Cell>
     <Cell><Data ss:Type="String">Crafted 5.56 Pistol</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений пістолет 5.56</Data></Cell>
+    <Cell><Data ss:Type="String">Пістолет 5.56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5742,14 +5732,14 @@
                     >A semi-auto crafted pistol. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматичний пістолет. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >CraftedPistolSilencer</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Pistol Silencer</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений пістолетний глушник</Data></Cell>
+    <Cell><Data ss:Type="String">Пістолетний глушник</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5776,14 +5766,12 @@
                     >A semi-auto crafted rifle. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматична гвинтівка. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматична гвинтівка. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedRifleLong</Data></Cell>
     <Cell><Data ss:Type="String">Crafted 5.56 Long Rifle</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлена ​​довга гвинтівка 5,56</Data></Cell>
+    <Cell><Data ss:Type="String">Довга гвинтівка 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5794,7 +5782,7 @@
                     >A semi-auto long barrel crafted 5.56 rifle.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматична рушниця калібру 5,56 з довгим стволом.</Data></Cell>
+                    >Напівавтоматична рушниця калібр 5,56 з довгим стволом.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSMG</Data></Cell>
@@ -5810,12 +5798,12 @@
                     >A crafted SMG with multiple fire modes. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Створений SMG з кількома режимами вогню. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Створений SMG з кількома режимами вогню. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedShortRifle556</Data></Cell>
     <Cell><Data ss:Type="String">Crafted 5.56 Short Rifle</Data></Cell>
-    <Cell><Data ss:Type="String">Коротка гвинтівка калібру 5,56</Data></Cell>
+    <Cell><Data ss:Type="String">Коротка гвинтівка калібр 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5826,7 +5814,7 @@
                     >A semi-auto short barrel crafted 5.56 rifle.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматична рушниця з коротким стволом калібру 5,56.</Data></Cell>
+                    >Напівавтоматична рушниця з коротким стволом калібр 5,56.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedShortShotgun</Data></Cell>
@@ -5842,26 +5830,24 @@
                     >A short barrel crafted 12 gauge shotgun</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Рушниця 12 калібру виготовлена ​​з короткого ствола</Data></Cell>
+                    >Рушниця 12 калібру виготовлена з короткого ствола</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedShotgun</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Shotgun</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​рушниця</Data></Cell>
+    <Cell><Data ss:Type="String">Рушниця</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >CraftedShotgunDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted 12 gauge shotgun</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​рушниця 12 калібру</Data></Cell>
+    <Cell><Data ss:Type="String">Рушниця 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">CraftedSilencer</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rifle Silencer</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений глушник для гвинтівки</Data></Cell>
+    <Cell><Data ss:Type="String">Глушник для гвинтівки</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5935,9 +5921,7 @@
                         ss:Type="String"
                     >Crafted_AmmoBox_12Gauge_Slug</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box 12ga Slug</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений ящик для боєприпасів 12ga Slug</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для боєприпасів 12ga Slug</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5955,14 +5939,14 @@
     <Cell><Data ss:Type="String">Crafted Ammo Box .22x15mm</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Кустарний ящик для патронів .22x15 мм</Data></Cell>
+                    >Кустарний ящик для набоїв .22x15 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_223</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box .223x45mm</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Створена коробка для патронів .223x45 мм</Data></Cell>
+                    >Створена коробка для набоїв .223x45 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -5989,9 +5973,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_308</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box .308x51mm</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлена ​​коробка для патронів .308x51 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Коробка для набоїв .308x51 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -6007,9 +5989,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Crafted_AmmoBox_357</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box .357x33mm</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений ящик для патронів .357x33 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .357x33 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -6141,9 +6121,7 @@
                         ss:Type="String"
                     >Crafted_AmmoBox_acp_45</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Ammo Box .45x23mm</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлений ящик для патронів .45x23 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Ящик для набоїв .45x23 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -6233,14 +6211,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Deer Meat</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо оленя</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо оленя</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >DeerMeatSteakCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Cooked deer meat. Tasty!</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо оленя. Смачного!</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо оленя. Смачного!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DeerMeatSteakCured</Data></Cell>
@@ -6435,14 +6413,14 @@
                         ss:Type="String"
                     >DonkeyMeatSteakCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Donkey Meat</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо осла</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо осла</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >DonkeyMeatSteakCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Cooked donkey meat. Tasty!</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо ослика. Смачного!</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо ослика. Смачного!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">DonkeyMeatSteakCured</Data></Cell>
@@ -7056,14 +7034,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">EggChickenCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Egg</Data></Cell>
-    <Cell><Data ss:Type="String">Варене яйце</Data></Cell>
+    <Cell><Data ss:Type="String">Готове яйце</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >EggChickenCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">A cooked chicken egg.</Data></Cell>
-    <Cell><Data ss:Type="String">Варене куряче яйце.</Data></Cell>
+    <Cell><Data ss:Type="String">Готове куряче яйце.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -7242,9 +7220,7 @@
     <Cell><Data
                         ss:Type="String"
                     >A crafted paddle with some added damage.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Виготовлене весло з додатковими пошкодженнями.</Data></Cell>
+    <Cell><Data ss:Type="String">Лопатка з підвищеною шкодою.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FannyPackBlack</Data></Cell>
@@ -7441,7 +7417,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FireDrill</Data></Cell>
     <Cell><Data ss:Type="String">Fire Drill</Data></Cell>
-    <Cell><Data ss:Type="String">Пожежна тренування</Data></Cell>
+    <Cell><Data ss:Type="String">Розпалювач</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">FireDrillDescription</Data></Cell>
@@ -8076,7 +8052,7 @@
                     >A semi-auto G18 handgun. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет G18. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматичний пістолет G18. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">GasCanisterPack</Data></Cell>
@@ -8324,7 +8300,7 @@
                         ss:Type="String"
                     >GrenadeMolotovPickupDescription</Data></Cell>
     <Cell><Data ss:Type="String">A homemade throwable gas bomb.</Data></Cell>
-    <Cell><Data ss:Type="String">Саморобна метальна газова бомба.</Data></Cell>
+    <Cell><Data ss:Type="String">Метальна газова бомба.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">GrenadePickup</Data></Cell>
@@ -8454,7 +8430,7 @@
     <Cell><Data
                         ss:Type="String"
                     >A pile of gunpowder that is useful for crafting</Data></Cell>
-    <Cell><Data ss:Type="String">Купа пороху, корисна для крафта</Data></Cell>
+    <Cell><Data ss:Type="String">Стос пороху, корисна для крафта</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Hacksaw</Data></Cell>
@@ -9088,7 +9064,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HeadbandRed</Data></Cell>
     <Cell><Data ss:Type="String">Red Headband</Data></Cell>
-    <Cell><Data ss:Type="String">Червона пов'язка</Data></Cell>
+    <Cell><Data ss:Type="String">Red Headband</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -9227,9 +9203,7 @@
     <Cell><Data
                         ss:Type="String"
                     >A pair of old school blue hi-tops.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Пара синіх хай-топів старої школи.</Data></Cell>
+    <Cell><Data ss:Type="String">Пара старих синіх хай-топів.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">HitopsGreen</Data></Cell>
@@ -9988,14 +9962,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">JerryCanDiesel</Data></Cell>
     <Cell><Data ss:Type="String">Jerry Can</Data></Cell>
-    <Cell><Data ss:Type="String">Джеррі Кан</Data></Cell>
+    <Cell><Data ss:Type="String">Каністра</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >JerryCanDieselDepositFluid</Data></Cell>
     <Cell><Data ss:Type="String">Deposit Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Депозитна рідина</Data></Cell>
+    <Cell><Data ss:Type="String">Злити рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10020,7 +9994,7 @@
                         ss:Type="String"
                     >JerryCanDieselWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Katana</Data></Cell>
@@ -10041,17 +10015,19 @@
                     >A very sharp katana made with an exotic metal.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Дуже гостра катана, виготовлена ​​з екзотичного металу.</Data></Cell>
+                    >Дуже гостра катана, виготовлена з екзотичного металу.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">KatanaDescription</Data></Cell>
     <Cell><Data ss:Type="String">A well used katana.</Data></Cell>
-    <Cell><Data ss:Type="String">Добре використана катана.</Data></Cell>
+    <Cell><Data
+                        ss:Type="String"
+                    >Катана з явними слідами використання</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">KrissV</Data></Cell>
     <Cell><Data ss:Type="String">Vector</Data></Cell>
-    <Cell><Data ss:Type="String">Вектор</Data></Cell>
+    <Cell><Data ss:Type="String">Vector</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">KrissVDescription</Data></Cell>
@@ -10060,7 +10036,7 @@
                     >Compact automatic SMG. Fires 10mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Компактний автомат SMG. Стріляє 10 мм патронами.</Data></Cell>
+                    >Компактний автомат SMG. Стріляє 10 мм набоями.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LaserSight</Data></Cell>
@@ -10081,7 +10057,7 @@
                     >A blue laser sight to assist with hip-fire aiming.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Синій лазерний приціл для прицілювання в стегнах.</Data></Cell>
+                    >Синій лазерний приціл для стрільби від стегна.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10092,7 +10068,7 @@
                     >A red laser sight to assist with hip-fire aiming.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Червоний лазерний приціл для прицілювання в стегнах.</Data></Cell>
+                    >Червоний лазерний приціл для стрільби від стегна.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LaserSightGreen</Data></Cell>
@@ -10108,7 +10084,7 @@
                     >A green laser sight to assist with hip-fire aiming.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Зелений лазерний приціл для прицілювання в бік.</Data></Cell>
+                    >Зелений лазерний приціл для стрільби від стегна.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LeatherJacketBlack</Data></Cell>
@@ -10170,44 +10146,44 @@
                     >A cheap gas station lighter. Useful for lighting flames and fires.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Дешева заправна запальничка. Корисно для розпалювання вогню та вогню.</Data></Cell>
+                    >Дешева заправна запальничка. Корисно для розпалювання вогню.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightCandle</Data></Cell>
     <Cell><Data ss:Type="String">Light Candle</Data></Cell>
-    <Cell><Data ss:Type="String">Запали свічку</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити свічку</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightFire</Data></Cell>
     <Cell><Data ss:Type="String">Light Fire</Data></Cell>
-    <Cell><Data ss:Type="String">Запали вогонь</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити вогонь</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightFirepit</Data></Cell>
     <Cell><Data ss:Type="String">Light Firepit</Data></Cell>
-    <Cell><Data ss:Type="String">Легке вогнище</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити вогнище</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightFurnace</Data></Cell>
     <Cell><Data ss:Type="String">Light Furnace</Data></Cell>
-    <Cell><Data ss:Type="String">Легка піч</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити піч</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightGrill</Data></Cell>
     <Cell><Data ss:Type="String">Light Grill</Data></Cell>
-    <Cell><Data ss:Type="String">Легкий гриль</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити гриль</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >LighterLightJackOLantern</Data></Cell>
     <Cell><Data ss:Type="String">Light Jack-O-Lantern</Data></Cell>
-    <Cell><Data ss:Type="String">Світло Jack-O-Lantern</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити Jack-O-Lantern</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">LighterLightStove</Data></Cell>
     <Cell><Data ss:Type="String">Light Stove</Data></Cell>
-    <Cell><Data ss:Type="String">Легка піч</Data></Cell>
+    <Cell><Data ss:Type="String">Запалити піч</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10252,7 +10228,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M16</Data></Cell>
     <Cell><Data ss:Type="String">Mod16 Assault</Data></Cell>
-    <Cell><Data ss:Type="String">Мод 16 Напад</Data></Cell>
+    <Cell><Data ss:Type="String">Гвинтівка М16</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M16Description</Data></Cell>
@@ -10261,7 +10237,7 @@
                     >Military semi-automatic and burst-fire rifle. Fires 5.56 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Військова напівавтоматична рушниця та черга. Вистрілює 5,56 патронів.</Data></Cell>
+                    >Військова напівавтоматична рушниця. Калібр 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M16Vietnam</Data></Cell>
@@ -10277,7 +10253,7 @@
                     >An old M16 used during the vietnam war.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Старий M16, який використовувався під час війни у ​​В'єтнамі.</Data></Cell>
+                    >Старий M16, який використовувався під час війни у В'єтнамі.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M203</Data></Cell>
@@ -10305,7 +10281,7 @@
                     >Fully Automatic Machine Gun. Fires 5.56 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Повністю автоматичний кулемет. Вистрілює 5,56 патронів.</Data></Cell>
+                    >Повністю автоматичний кулемет. Калібр 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M40A5</Data></Cell>
@@ -10317,14 +10293,12 @@
     <Cell><Data
                         ss:Type="String"
                     >Bolt action rifle. Fires 7.62 rounds.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Затворна гвинтівка. Вистрілює 7,62 патронів.</Data></Cell>
+    <Cell><Data ss:Type="String">Затворна гвинтівка. Калібр 7,62</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M40x5</Data></Cell>
     <Cell><Data ss:Type="String">5Rnd M40</Data></Cell>
-    <Cell><Data ss:Type="String">5-й М40</Data></Cell>
+    <Cell><Data ss:Type="String">5 набоїв М40</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M40x5Description</Data></Cell>
@@ -10333,7 +10307,7 @@
                     >A 7.62mm magazine with a 5 round capacity</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин калібру 7,62 мм на 5 патронів</Data></Cell>
+                    >Магазин калібру 7,62 мм на 5 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">M4A1</Data></Cell>
@@ -10379,7 +10353,7 @@
                     >A semi-auto M9 pistol. Fires 9mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет M9. Стріляє снарядами калібру 9 мм.</Data></Cell>
+                    >Напівавтоматичний пістолет M9. Калібр 9 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MAK10</Data></Cell>
@@ -10403,7 +10377,7 @@
                     >Compact automatic SMG. Fires 10mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Компактний автомат SMG. Стріляє 10 мм патронами.</Data></Cell>
+                    >Компактний автомат SMG. Калібр 10 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MRE</Data></Cell>
@@ -10471,7 +10445,7 @@
                     >A self-loading soviet made pistol. Takes 9mm rounds (10 round mag)</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Самозарядний пістолет радянського виробництва. Витримує патрони калібру 9 мм (10 патронів)</Data></Cell>
+                    >Самозарядний пістолет радянського виробництва. Калібр 9 мм (10 набоїв)</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MannequinArm</Data></Cell>
@@ -10586,7 +10560,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MilitaryCanteenMetal</Data></Cell>
     <Cell><Data ss:Type="String">Metal Military Canteen</Data></Cell>
-    <Cell><Data ss:Type="String">Металева військова їдальня</Data></Cell>
+    <Cell><Data ss:Type="String">Металева військова фляга</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10604,7 +10578,7 @@
                     >A refillable metal military canteen.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Їдальня військова металева багаторазового використання.</Data></Cell>
+                    >Фляга військова металева багаторазового використання.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10618,14 +10592,14 @@
                         ss:Type="String"
                     >MilitaryCanteenMetalWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >MilitaryCanteenPlastic</Data></Cell>
     <Cell><Data ss:Type="String">Plastic Military Canteen</Data></Cell>
-    <Cell><Data ss:Type="String">Пластикова військова їдальня</Data></Cell>
+    <Cell><Data ss:Type="String">Пластикова військова фляга</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10643,7 +10617,7 @@
                     >A refillable plastic military canteen.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Багаторазова пластикова військова їдальня.</Data></Cell>
+                    >Багаторазова пластикова військова фляга.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -10657,7 +10631,7 @@
                         ss:Type="String"
                     >MilitaryCanteenPlasticWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MilitaryGloves</Data></Cell>
@@ -11198,7 +11172,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Milk</Data></Cell>
     <Cell><Data ss:Type="String">Milk</Data></Cell>
-    <Cell><Data ss:Type="String">молоко</Data></Cell>
+    <Cell><Data ss:Type="String">Молоко</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">MilkDescription</Data></Cell>
@@ -11267,7 +11241,7 @@
                     >Military short-barrel semi-automatic rifle. Fires 5.56 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Військова короткоствольна напівавтоматична рушниця. Вистрілює 5,56 патронів.</Data></Cell>
+                    >Військова короткоствольна напівавтоматична рушниця. Калібр 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Mk18Reaver</Data></Cell>
@@ -11283,7 +11257,7 @@
                     >Rare military short-barrel automatic rifle. Fires 5.56 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Рідкісна військова короткоствольна автоматична рушниця. Вистрілює 5,56 патронів.</Data></Cell>
+                    >Рідкісна військова короткоствольна автоматична рушниця. Калібр 5,56</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Model1873</Data></Cell>
@@ -11307,9 +11281,7 @@
     <Cell><Data
                         ss:Type="String"
                     >Bolt action rifle. Fires .223 rounds.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Затворна гвинтівка. Вистрілює .223 патрона.</Data></Cell>
+    <Cell><Data ss:Type="String">Затворна гвинтівка. Калібр .223</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -11429,12 +11401,12 @@
                         ss:Type="String"
                     >NailKnucklesDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted pair of nail knuckles.</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлена ​​пара наконечників.</Data></Cell>
+    <Cell><Data ss:Type="String">Пара наконечників.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Nails</Data></Cell>
     <Cell><Data ss:Type="String">Nails</Data></Cell>
-    <Cell><Data ss:Type="String">Нігті</Data></Cell>
+    <Cell><Data ss:Type="String">Цвяхи</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NailsDescription</Data></Cell>
@@ -11448,14 +11420,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NailsPaddle</Data></Cell>
     <Cell><Data ss:Type="String">Nails Paddle</Data></Cell>
-    <Cell><Data ss:Type="String">Весло для нігтів</Data></Cell>
+    <Cell><Data ss:Type="String">Дошка з цвяхами</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >NailsPaddleDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted paddle with nails.</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлене весло з цвяхами.</Data></Cell>
+    <Cell><Data ss:Type="String">Бита з цвяхами.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NecklaceCrossChrome</Data></Cell>
@@ -11606,7 +11578,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NutSpread</Data></Cell>
     <Cell><Data ss:Type="String">Nut Spread</Data></Cell>
-    <Cell><Data ss:Type="String">Горіховий спред</Data></Cell>
+    <Cell><Data ss:Type="String">Горіхова паста</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">NutSpreadDescription</Data></Cell>
@@ -11628,7 +11600,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Oil</Data></Cell>
     <Cell><Data ss:Type="String">Oil</Data></Cell>
-    <Cell><Data ss:Type="String">олія</Data></Cell>
+    <Cell><Data ss:Type="String">мастило</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">OilDescription</Data></Cell>
@@ -11683,7 +11655,7 @@
                     >A semi-auto handgun. Fires .357 rounds (14 round mag).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Пістолет напівавтоматичний. Вистрілює .357 патронів (14 патронів).</Data></Cell>
+                    >Пістолет напівавтоматичний. Калібр .357 (14 набоїв).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PBJSandwich</Data></Cell>
@@ -11721,7 +11693,7 @@
                     >A semi-auto pistol. Fires .45 ACP rounds (10 round mag).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет. Стріляє патронами .45 ACP (10 патронів).</Data></Cell>
+                    >Напівавтоматичний пістолет. Калібр .45 ACP (10 набоїв).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -12602,7 +12574,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pickaxe</Data></Cell>
     <Cell><Data ss:Type="String">Pickaxe</Data></Cell>
-    <Cell><Data ss:Type="String">кирка</Data></Cell>
+    <Cell><Data ss:Type="String">Кайло</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PickaxeDescription</Data></Cell>
@@ -12611,22 +12583,22 @@
                     >A pickaxe. Could be useful for a melee weapon and collecting rock.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Кирка. Може бути корисним для холодної зброї та збору каміння.</Data></Cell>
+                    >Кайло. Може бути корисним для холодної зброї та збору каміння.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_10mm</Data></Cell>
     <Cell><Data ss:Type="String">10mm Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">10 мм патрони</Data></Cell>
+    <Cell><Data ss:Type="String">10 мм набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_10mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 10mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів 10 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв 10 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeBeanbag</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Bean Bag</Data></Cell>
-    <Cell><Data ss:Type="String">Мішок-крісло 12 калібру</Data></Cell>
+    <Cell><Data ss:Type="String">Гумові кулі 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -12637,12 +12609,12 @@
                     >A pile of 12 gauge non-lethal beanbag rounds</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа нелетальних набоїв 12-го калібру</Data></Cell>
+                    >Стос нелетальних набоїв 12-го калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeCrafted</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Crafted Buckshot</Data></Cell>
-    <Cell><Data ss:Type="String">Картина 12-го калібру</Data></Cell>
+    <Cell><Data ss:Type="String">Картеч 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -12651,14 +12623,12 @@
     <Cell><Data
                         ss:Type="String"
                     >A pile of crafted gauge 00 buckshot shells</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Купа виготовлених картечних снарядів калібру 00</Data></Cell>
+    <Cell><Data ss:Type="String">Набої з картеччю для 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugePellet</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Buckshot</Data></Cell>
-    <Cell><Data ss:Type="String">Картина 12-го калібру</Data></Cell>
+    <Cell><Data ss:Type="String">Картеч 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -12667,61 +12637,59 @@
     <Cell><Data
                         ss:Type="String"
                     >A pile of gauge 00 buckshot shells</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Купа картечних снарядів калібру 00</Data></Cell>
+    <Cell><Data ss:Type="String">Набої з картеччю для 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_12GaugeSlug</Data></Cell>
     <Cell><Data ss:Type="String">12-Gauge Slug</Data></Cell>
-    <Cell><Data ss:Type="String">Слизень 12-го калібру</Data></Cell>
+    <Cell><Data ss:Type="String">Куля 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_12GaugeSlugDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of gauge 00 slugs</Data></Cell>
-    <Cell><Data ss:Type="String">Купа слимаків калібру 00</Data></Cell>
+    <Cell><Data ss:Type="String">Набої куля 12 калібру</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_22</Data></Cell>
     <Cell><Data ss:Type="String">.22 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.22 Раунди</Data></Cell>
+    <Cell><Data ss:Type="String">.22 Набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_223</Data></Cell>
     <Cell><Data ss:Type="String">.223 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.223 Раунди</Data></Cell>
+    <Cell><Data ss:Type="String">.223 Набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_223Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .223 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів .223</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв .223</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_22Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .22 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів .22</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв .22</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_308</Data></Cell>
     <Cell><Data ss:Type="String">.308 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.308 Раунди</Data></Cell>
+    <Cell><Data ss:Type="String">.308 Набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_308Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .308 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів .308</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв .308</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_357</Data></Cell>
     <Cell><Data ss:Type="String">.357 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.357 Раунди</Data></Cell>
+    <Cell><Data ss:Type="String">.357 Набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_357Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .357 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів .357</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв .357</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_40mmGrenade</Data></Cell>
@@ -12742,38 +12710,38 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_45ACP</Data></Cell>
     <Cell><Data ss:Type="String">.45 ACP Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">.45 Раунди ACP</Data></Cell>
+    <Cell><Data ss:Type="String">.45 набої ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_45ACPDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of .45 ACP rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів .45 ACP</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв .45 ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_545x39</Data></Cell>
     <Cell><Data ss:Type="String">5.45x39 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">5,45х39 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">5,45х39 набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_545x39Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.45x39 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Стос патронів 5,45х39</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв 5,45х39</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_556x45</Data></Cell>
     <Cell><Data ss:Type="String">5.56x45 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">5,56х45 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">5,56х45 набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_556x45Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.56x45 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Стос патронів 5,56х45</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв 5,56х45</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_57x28</Data></Cell>
@@ -12785,41 +12753,41 @@
                         ss:Type="String"
                     >Pile_57x28Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 5.7x28mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Пачка патронів 5,7х28 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Пачка набоїв 5,7х28 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x39</Data></Cell>
     <Cell><Data ss:Type="String">7.62x39 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">7,62x39 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">7,62x39 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_762x39Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 7.62x39 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Стос патронів 7,62х39</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв 7,62х39</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_762x51</Data></Cell>
     <Cell><Data ss:Type="String">7.62x51 Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">7,62x51 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">7,62x51 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_762x51Description</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 7.62x51 rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Стос 7,62х51 патрон</Data></Cell>
+    <Cell><Data ss:Type="String">Стос 7,62х51 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_9mm</Data></Cell>
     <Cell><Data ss:Type="String">9mm Rounds</Data></Cell>
-    <Cell><Data ss:Type="String">9 мм патрони</Data></Cell>
+    <Cell><Data ss:Type="String">9 мм набої</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_9mmDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of 9mm rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа патронів калібру 9 мм</Data></Cell>
+    <Cell><Data ss:Type="String">Стос набоїв калібру 9 мм</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pile_Flare</Data></Cell>
@@ -12831,14 +12799,14 @@
                         ss:Type="String"
                     >Pile_FlareDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of flare gun rounds</Data></Cell>
-    <Cell><Data ss:Type="String">Купа ракетних снарядів</Data></Cell>
+    <Cell><Data ss:Type="String">Стос ракетних снарядів</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >Pile_TranquilizerDart</Data></Cell>
     <Cell><Data ss:Type="String">Tranquilizer Darts</Data></Cell>
-    <Cell><Data ss:Type="String">Транквілізатор Дартс</Data></Cell>
+    <Cell><Data ss:Type="String">Дротик транквілізатора</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -12847,7 +12815,7 @@
     <Cell><Data
                         ss:Type="String"
                     >A pile of non-lethal tranquilizer darts</Data></Cell>
-    <Cell><Data ss:Type="String">Купа нелетальних транквілізаторів</Data></Cell>
+    <Cell><Data ss:Type="String">Стос нелетальних транквілізаторів</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PipeMetal</Data></Cell>
@@ -12885,7 +12853,7 @@
                         ss:Type="String"
                     >PipebombPickupDescription</Data></Cell>
     <Cell><Data ss:Type="String">A homemade explosive.</Data></Cell>
-    <Cell><Data ss:Type="String">Саморобна вибухівка.</Data></Cell>
+    <Cell><Data ss:Type="String">Вибухівка.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PistolSilencer</Data></Cell>
@@ -13097,7 +13065,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PotatoesDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of potatoes</Data></Cell>
-    <Cell><Data ss:Type="String">Купа картоплі</Data></Cell>
+    <Cell><Data ss:Type="String">Стос картоплі</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PotatoesRotten</Data></Cell>
@@ -13113,7 +13081,7 @@
                     >A pile of rotten potatoes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа гнилої картоплі. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
+                    >Стос гнилої картоплі. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -13340,7 +13308,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PuffyJacketGreyBlack</Data></Cell>
     <Cell><Data ss:Type="String">Grey And Black Puffy Jacket</Data></Cell>
-    <Cell><Data ss:Type="String">Grey And Black Puffy Jacket</Data></Cell>
+    <Cell><Data ss:Type="String">Сіро-чорна пухова куртка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -13494,12 +13462,12 @@
                         ss:Type="String"
                     >PuffyJacketSilverDescription</Data></Cell>
     <Cell><Data ss:Type="String">A silver puffy jacket.</Data></Cell>
-    <Cell><Data ss:Type="String">Срібна дута куртка.</Data></Cell>
+    <Cell><Data ss:Type="String">A silver puffy jacket.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">PuffyJacketWhite</Data></Cell>
     <Cell><Data ss:Type="String">White Puffy Jacket</Data></Cell>
-    <Cell><Data ss:Type="String">Біла дута куртка</Data></Cell>
+    <Cell><Data ss:Type="String">White Puffy Jacket</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -13520,7 +13488,7 @@
                         ss:Type="String"
                     >PuffyJacketWhiteDescription</Data></Cell>
     <Cell><Data ss:Type="String">A white puffy jacket.</Data></Cell>
-    <Cell><Data ss:Type="String">Біла дута куртка.</Data></Cell>
+    <Cell><Data ss:Type="String">A white puffy jacket.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Pumpkin</Data></Cell>
@@ -13718,7 +13686,7 @@
                     >Bullpup SMG with semi and fully automatic firemodes. Fires 5.7mm rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Буллпап SMG з напівавтоматичним і повністю автоматичним режимами вогню. Стріляє патронами калібру 5,7 мм.</Data></Cell>
+                    >Буллпап SMG з напівавтоматичним і повністю автоматичним режимами вогню. Калібр 5,7 мм.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RK_AA12</Data></Cell>
@@ -14566,7 +14534,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RadishesDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of radishes</Data></Cell>
-    <Cell><Data ss:Type="String">Купа редиски</Data></Cell>
+    <Cell><Data ss:Type="String">Стос редиски</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RadishesRotten</Data></Cell>
@@ -14582,7 +14550,7 @@
                     >A pile of rotten radishes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа гнилої редиски. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
+                    >Стос гнилої редиски. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -14946,14 +14914,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RamMeatSteakCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Ram Meat</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо барана</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо барана</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >RamMeatSteakCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Cooked ram meat. Tasty!</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо барана. Смачного!</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо барана. Смачного!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RamMeatSteakCured</Data></Cell>
@@ -15199,9 +15167,7 @@
     <Cell><Data
                         ss:Type="String"
                     >Bolt action rifle. Fires .308 rounds.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Затворна гвинтівка. Вистрілює .308 патронів.</Data></Cell>
+    <Cell><Data ss:Type="String">Затворна гвинтівка. Калібр .308</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Rem870</Data></Cell>
@@ -15232,7 +15198,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Rocks</Data></Cell>
     <Cell><Data ss:Type="String">Rock</Data></Cell>
-    <Cell><Data ss:Type="String">Рок</Data></Cell>
+    <Cell><Data ss:Type="String">Камінь</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">RocksDescription</Data></Cell>
@@ -15447,7 +15413,7 @@
     <Cell><Data ss:Type="String">Green Woodland Camo Rugged Pack</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Міцний рюкзак Green Woodland Camo Rugged Pack</Data></Cell>
+                    >Камуфляж Green Woodland Rugged Pack</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -15506,14 +15472,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">STANAGx30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd STANAG</Data></Cell>
-    <Cell><Data ss:Type="String">30-й СТАНАГ</Data></Cell>
+    <Cell><Data ss:Type="String">30 набоїв СТАНАГ</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">STANAGx30Description</Data></Cell>
     <Cell><Data
                         ss:Type="String"
                     >A STANAG magazine with a 30 round capacity</Data></Cell>
-    <Cell><Data ss:Type="String">Магазин STANAG на 30 патронів</Data></Cell>
+    <Cell><Data ss:Type="String">Магазин STANAG на 30 набоїв</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Sako_85</Data></Cell>
@@ -15525,9 +15491,7 @@
     <Cell><Data
                         ss:Type="String"
                     >Bolt action rifle. Fires .308 rounds.</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Затворна гвинтівка. Вистрілює .308 патронів.</Data></Cell>
+    <Cell><Data ss:Type="String">Затворна гвинтівка. Калібр .308</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Salt</Data></Cell>
@@ -15558,7 +15522,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SawedShotgun</Data></Cell>
     <Cell><Data ss:Type="String">Sawed off AT-12 Shotgun</Data></Cell>
-    <Cell><Data ss:Type="String">Відпиляв дробовик АТ-12</Data></Cell>
+    <Cell><Data ss:Type="String">Обріз АТ-12</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -15974,14 +15938,14 @@
                         ss:Type="String"
                     >ScorpionMeatSteakCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Scorpion Meat</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо скорпіона</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо скорпіона</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >ScorpionMeatSteakCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Cooked scorpion meat. Tasty!</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо скорпіона. Смачного!</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо скорпіона. Смачного!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -16115,14 +16079,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeasonedChicken</Data></Cell>
     <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
-    <Cell><Data ss:Type="String">Приправлена ​​курка</Data></Cell>
+    <Cell><Data ss:Type="String">Приправлена курка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >SeasonedChickenDescription</Data></Cell>
     <Cell><Data ss:Type="String">Seasoned Chicken</Data></Cell>
-    <Cell><Data ss:Type="String">Приправлена ​​курка</Data></Cell>
+    <Cell><Data ss:Type="String">Приправлена курка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SeasonedDeerSteaks</Data></Cell>
@@ -16467,7 +16431,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SkullMaskDescription</Data></Cell>
     <Cell><Data ss:Type="String">A mask made out of a human skull.</Data></Cell>
-    <Cell><Data ss:Type="String">Маска з людського черепа.</Data></Cell>
+    <Cell><Data ss:Type="String">A mask made out of a human skull.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SkullMaskGold</Data></Cell>
@@ -16499,7 +16463,7 @@
                     >A silver plated mask made out of a human skull.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Посріблена маска з людського черепа.</Data></Cell>
+                    >A silver plated mask made out of a human skull.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">Sledgehammer</Data></Cell>
@@ -17021,7 +16985,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">StickPile</Data></Cell>
     <Cell><Data ss:Type="String">Stick Pile</Data></Cell>
-    <Cell><Data ss:Type="String">Палиця ворс</Data></Cell>
+    <Cell><Data ss:Type="String">Стос гілок</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">StickPileAddFuel</Data></Cell>
@@ -17035,7 +16999,7 @@
                     >A pile of sticks useful for crafting - burns for about 10 seconds each.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа паличок, корисних для крафта - горить близько 10 секунд кожна.</Data></Cell>
+                    >Стос паличок, корисних для крафта - горить близько 10 секунд кожна.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">StowPackBlack</Data></Cell>
@@ -17171,7 +17135,7 @@
                     >A pile of ground Sulphur that is useful in crafting</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа меленої сірки, корисна для крафта</Data></Cell>
+                    >Стос меленої сірки, корисна для крафта</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SunglassesABlack</Data></Cell>
@@ -17315,7 +17279,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">SweaterBlue</Data></Cell>
     <Cell><Data ss:Type="String">Blue Knitted Sweater </Data></Cell>
-    <Cell><Data ss:Type="String">Blue Knitted Sweater </Data></Cell>
+    <Cell><Data ss:Type="String">Синій в'язаний светр</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -17849,7 +17813,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TomatoesDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of tomatoes</Data></Cell>
-    <Cell><Data ss:Type="String">Купа помідорів</Data></Cell>
+    <Cell><Data ss:Type="String">Стос помідорів</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TomatoesRotten</Data></Cell>
@@ -17865,7 +17829,7 @@
                     >A pile of rotten tomatoes. Can be used as crop fertilizer.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Купа гнилих помідорів. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
+                    >Стос гнилих помідорів. Може використовуватися як добриво сільськогосподарських культур.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -17882,7 +17846,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TorchDescription</Data></Cell>
     <Cell><Data ss:Type="String">A crafted torch.</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений факел.</Data></Cell>
+    <Cell><Data ss:Type="String">Саморобний факел.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TowCable</Data></Cell>
@@ -17984,7 +17948,7 @@
                     >Weapon that fires tranquilizer darts</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Зброя, що стріляє дротиками з транквілізатором</Data></Cell>
+                    >Зброя, яка стріляє заспокійливими дротиками</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">TranslationCard</Data></Cell>
@@ -18677,7 +18641,7 @@
                     >Placeable 2 meter green smoke trap. Requires Green Smoke Grenade to reset.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Встановлюваний 2-метровий зелений димоуловлювач. Для скидання потрібна зелена димова граната.</Data></Cell>
+                    >Розміщуваний 2-метровий зелений димоуловлювач. Для скидання потрібна зелена димова граната.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -18743,7 +18707,7 @@
                     >Placeable 2 meter green smoke trap. Requires Magenta Smoke Grenade to reset.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Встановлюваний 2-метровий зелений димоуловлювач. Для скидання потрібна пурпурова димова граната.</Data></Cell>
+                    >Розміщуваний 2-метровий зелений димоуловлювач. Для скидання потрібна пурпурова димова граната.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -18869,7 +18833,7 @@
                     >Placeable 2 meter green smoke trap. Requires White Smoke Grenade to reset.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Встановлюваний 2-метровий зелений димоуловлювач. Для скидання потрібна біла димова граната.</Data></Cell>
+                    >Розміщуваний 2-метровий зелений димоуловлювач. Для скидання потрібна біла димова граната.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -20601,7 +20565,7 @@
                         ss:Type="String"
                     >WaterBottleWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -20687,7 +20651,7 @@
                         ss:Type="String"
                     >WaterskinCraftedDeerWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WaterskinCraftedWolf</Data></Cell>
@@ -20724,7 +20688,7 @@
                         ss:Type="String"
                     >WaterskinCraftedWolfWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WeldersMask</Data></Cell>
@@ -20783,14 +20747,14 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakCooked</Data></Cell>
     <Cell><Data ss:Type="String">Cooked Wolf Meat</Data></Cell>
-    <Cell><Data ss:Type="String">Варене вовче м'ясо</Data></Cell>
+    <Cell><Data ss:Type="String">Готове вовче м'ясо</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
                         ss:Type="String"
                     >WolfMeatSteakCookedDescription</Data></Cell>
     <Cell><Data ss:Type="String">Cooked wolf meat. Tasty!</Data></Cell>
-    <Cell><Data ss:Type="String">Варене м'ясо вовка. Смачного!</Data></Cell>
+    <Cell><Data ss:Type="String">Готове м'ясо вовка. Смачного!</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WolfMeatSteakCured</Data></Cell>
@@ -20938,7 +20902,7 @@
                     >A crafted piece of wood, good for hitting things with.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлений шматок дерева, яким можна бити по предметах.</Data></Cell>
+                    >Саморобний шматок дерева, яким можна бити по предметах.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">WoodPile</Data></Cell>
@@ -21108,7 +21072,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x10_hk</Data></Cell>
     <Cell><Data ss:Type="String">10Rnd HK .45 ACP</Data></Cell>
-    <Cell><Data ss:Type="String">10 Rnd HK .45 ACP</Data></Cell>
+    <Cell><Data ss:Type="String">10 набоїв HK .45 ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21119,12 +21083,12 @@
                     >A .45 magazine with a 10 round capacity (for HK45).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин .45 на 10 патронів (для HK45).</Data></Cell>
+                    >Магазин .45 на 10 набоїв (для HK45).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x20</Data></Cell>
     <Cell><Data ss:Type="String">20Rnd .45 ACP</Data></Cell>
-    <Cell><Data ss:Type="String">20Rnd .45 ACP</Data></Cell>
+    <Cell><Data ss:Type="String">20 набоїв .45 ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x20Description</Data></Cell>
@@ -21133,12 +21097,12 @@
                     >A .45 magazine with a 20 round capacity (for Cx8 Storm).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин .45 на 20 патронів (для Cx8 Storm).</Data></Cell>
+                    >Магазин .45 на 20 набоїв (для Cx8 Storm).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x30</Data></Cell>
     <Cell><Data ss:Type="String">30Rnd .45 ACP</Data></Cell>
-    <Cell><Data ss:Type="String">30Rnd .45 ACP</Data></Cell>
+    <Cell><Data ss:Type="String">30 набоїв .45 ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x30Description</Data></Cell>
@@ -21147,12 +21111,12 @@
                     >A .45 magazine with a 30 round capacity (for AUMP45).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин .45 місткістю 30 патронів (для AUMP45).</Data></Cell>
+                    >Магазин .45 місткістю 30 набоїв (для AUMP45).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x7</Data></Cell>
     <Cell><Data ss:Type="String">7Rnd .45 ACP</Data></Cell>
-    <Cell><Data ss:Type="String">7Rnd .45 ACP</Data></Cell>
+    <Cell><Data ss:Type="String">7 набоїв .45 ACP</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">acp_45x7Description</Data></Cell>
@@ -21161,7 +21125,7 @@
                     >A .45 magazine with a 7 round capacity (for M1911-A1).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Магазин .45 на 7 патронів (для M1911-A1).</Data></Cell>
+                    >Магазин .45 на 7 набоїв (для M1911-A1).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21284,7 +21248,7 @@
                         ss:Type="String"
                     >camping_water_jugWithdrawFluid</Data></Cell>
     <Cell><Data ss:Type="String">Withdraw Fluid</Data></Cell>
-    <Cell><Data ss:Type="String">Вилучити рідину</Data></Cell>
+    <Cell><Data ss:Type="String">Набрати рідину</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21348,7 +21312,7 @@
                         ss:Type="String"
                     >christmas_gift_pileDescription</Data></Cell>
     <Cell><Data ss:Type="String">A pile of wrapped gift.</Data></Cell>
-    <Cell><Data ss:Type="String">Купа загорнутих подарунків.</Data></Cell>
+    <Cell><Data ss:Type="String">Стос загорнутих подарунків.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21506,7 +21470,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_bed</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Bed</Data></Cell>
-    <Cell><Data ss:Type="String">Створене ліжко</Data></Cell>
+    <Cell><Data ss:Type="String">Ліжко</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21517,12 +21481,12 @@
                     >A crafted bed. Can be placed in a base.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Виготовлене ліжко. Можна помістити в основу.</Data></Cell>
+                    >Саморобне ліжко. Можна розмістити на базі.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_01</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 1</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 1</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 1</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21538,7 +21502,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_02</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 2</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 2</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 2</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21554,7 +21518,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_03</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 3</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 3</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 3</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21570,7 +21534,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_04</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 4</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 4</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 4</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21586,7 +21550,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_05</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 5</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 5</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 5</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21602,7 +21566,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_06</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 6</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 6</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 6</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21618,7 +21582,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_07</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 7</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 7</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 7</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21634,7 +21598,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_08</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 8</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 8</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 8</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21650,7 +21614,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_09</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 9</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 9</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 9</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21666,7 +21630,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_10</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 10</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 10</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 10</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21682,7 +21646,7 @@
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">crafted_rug_11</Data></Cell>
     <Cell><Data ss:Type="String">Crafted Rug 11</Data></Cell>
-    <Cell><Data ss:Type="String">Виготовлений килимок 11</Data></Cell>
+    <Cell><Data ss:Type="String">Килимок 11</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -21733,7 +21697,7 @@
                         ss:Type="String"
                     >ext_762x30Description</Data></Cell>
     <Cell><Data ss:Type="String">An extended 30 rounds 7.62 mag.</Data></Cell>
-    <Cell><Data ss:Type="String">Розширені 30 патронів 7,62 маг.</Data></Cell>
+    <Cell><Data ss:Type="String">Розширені 30 набоїв 7,62 маг.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ext_762x75</Data></Cell>
@@ -21747,7 +21711,7 @@
     <Cell><Data ss:Type="String">A 75 rounds 7.62 drum magazine.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Барабанний магазин на 75 патронів 7,62.</Data></Cell>
+                    >Барабанний магазин на 75 набоїв 7,62.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">flagpole_algeria</Data></Cell>
@@ -22866,7 +22830,7 @@
                         ss:Type="String"
                     >flexcap_gbfront_camo4</Data></Cell>
     <Cell><Data ss:Type="String">Tan UK Desert Flex Cap</Data></Cell>
-    <Cell><Data ss:Type="String">Тан UK Desert Flex Cap</Data></Cell>
+    <Cell><Data ss:Type="String">Тан UK Desert Flex Кепка</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23204,7 +23168,7 @@
                         ss:Type="String"
                     >flexcap_usfrontback_red</Data></Cell>
     <Cell><Data ss:Type="String">Red US Flex Cap</Data></Cell>
-    <Cell><Data ss:Type="String">Червона кепка US Flex</Data></Cell>
+    <Cell><Data ss:Type="String">Червона гнучка шапка США</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23522,7 +23486,7 @@
                         ss:Type="String"
                     >guide_structures_wood_gallows</Data></Cell>
     <Cell><Data ss:Type="String">Gallows Guide</Data></Cell>
-    <Cell><Data ss:Type="String">Керівництво по шибениці</Data></Cell>
+    <Cell><Data ss:Type="String">Керівництво по Шибениці</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23569,7 +23533,7 @@
                     >A basic wood ramps guide used for crafting</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Базовий напрямний дерев’яний пандус, який використовується для крафта</Data></Cell>
+                    >Базовий дерев’яний пандус, який використовується для крафта</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23718,7 +23682,7 @@
                         ss:Type="String"
                     >guide_structures_wood_walkways_1</Data></Cell>
     <Cell><Data ss:Type="String">Platforms 1 Guide</Data></Cell>
-    <Cell><Data ss:Type="String">Платформи 1 Керівництво</Data></Cell>
+    <Cell><Data ss:Type="String">Platforms 1 Guide</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23817,7 +23781,7 @@
                     >A basic placeable traps guide used for crafting</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Основна розміщувальна допомога для пасток, яка використовується для крафта</Data></Cell>
+                    >Основна розставляюча пастка, яка використовується для крафта</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">guide_traps_2</Data></Cell>
@@ -23945,7 +23909,7 @@
                         ss:Type="String"
                     >halloween_creepy_bunnyDescription</Data></Cell>
     <Cell><Data ss:Type="String">A creepy stuffed bunny toy.</Data></Cell>
-    <Cell><Data ss:Type="String">Моторошна м'яка іграшка-зайчик.</Data></Cell>
+    <Cell><Data ss:Type="String">Моторошна м'яка іграшка-кролик.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -23989,7 +23953,7 @@
                         ss:Type="String"
                     >heart_candleDescription</Data></Cell>
     <Cell><Data ss:Type="String">A heart shaped candle.</Data></Cell>
-    <Cell><Data ss:Type="String">A heart shaped candle.</Data></Cell>
+    <Cell><Data ss:Type="String">Свічка у формі серця.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">hesco_barrier</Data></Cell>
@@ -24017,7 +23981,7 @@
                     >A semi-auto Haakon and Ketel handgun. Fires .45 ACP rounds (10 round mag).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет Haakon і Ketel. Стріляє патронами .45 ACP (10 патронів).</Data></Cell>
+                    >Напівавтоматичний пістолет Haakon і Ketel. Калібр .45 ACP (10 набоїв).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">horshoe_pack</Data></Cell>
@@ -24131,7 +24095,7 @@
                     >A semi-auto M1911 pistol. Fires .45 ACP rounds (7 round mag).</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет M1911. Стріляє патронами .45 ACP (7 патронів).</Data></Cell>
+                    >Напівавтоматичний пістолет M1911. Калібр .45 ACP (7 набоїв).</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">metal_aframe_3m_4m</Data></Cell>
@@ -24186,7 +24150,7 @@
                         ss:Type="String"
                     >metal_door_lockable_1m_2m</Data></Cell>
     <Cell><Data ss:Type="String">Lockable Metal Door</Data></Cell>
-    <Cell><Data ss:Type="String">Металеві двері, що закриваються</Data></Cell>
+    <Cell><Data ss:Type="String">Металеві двері, що замикаються</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -24726,7 +24690,7 @@
                         ss:Type="String"
                     >painting_vertical_landscape_02</Data></Cell>
     <Cell><Data ss:Type="String">Painting Vertical 02</Data></Cell>
-    <Cell><Data ss:Type="String">Painting Vertical 02</Data></Cell>
+    <Cell><Data ss:Type="String">Вертикаль живопису 02</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -24762,7 +24726,7 @@
                         ss:Type="String"
                     >painting_vertical_landscape_04</Data></Cell>
     <Cell><Data ss:Type="String">Painting Vertical 04</Data></Cell>
-    <Cell><Data ss:Type="String">Painting Vertical 04</Data></Cell>
+    <Cell><Data ss:Type="String">Вертикаль живопису 04</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -25651,7 +25615,7 @@
                     >Plated 3m wide x 2m long roof with murderhole</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Покрита дахом 3 м завширшки х 2 м завдовжки з отвором</Data></Cell>
+                    >Покритий дах 3 м завширшки х 2 м завдовжки з отвором</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -26835,7 +26799,7 @@
                     >A semi-auto MKIII handgun. Fires .22 rounds.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Напівавтоматичний пістолет MKIII. Вистрілює .22 патронів.</Data></Cell>
+                    >Напівавтоматичний пістолет MKIII. Калібр .22</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -28221,7 +28185,7 @@
                     >Wood 2m x 2m punji sticks with poison</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Дерев'яні палички пунджі 2м х 2м з отрутою</Data></Cell>
+                    >Дерев'яні палиці пунджі розміром 2м х 2м з отрутою</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_ramp_0m_1_3m_1m</Data></Cell>
@@ -28625,7 +28589,7 @@
                     >Wood 3m wide x 2m long roof with murderhole</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Дерев'яний дах 3 м завширшки х 2 м завдовжки з отвором</Data></Cell>
+                    >Wood 3m wide x 2m long roof with murderhole</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -29467,9 +29431,7 @@
                         ss:Type="String"
                     >wood_wall_3m_1mDescription</Data></Cell>
     <Cell><Data ss:Type="String">Wood 3m high x 1m long wall</Data></Cell>
-    <Cell><Data
-                        ss:Type="String"
-                    >Деревина висотою 3 м х довжиною стіни 1 м</Data></Cell>
+    <Cell><Data ss:Type="String">Wood 3m high x 1m long wall</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_3m_2m</Data></Cell>
@@ -29673,7 +29635,7 @@
                     >A large wood wall with an railing system for a garage door.</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Велика дерев'яна стіна з системою перил для гаражних воріт.</Data></Cell>
+                    >Велика дерев'яна стіна з системою поручнів для гаражних воріт.</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">wood_wall_panel</Data></Cell>
@@ -29689,7 +29651,7 @@
                     >A wooden wall panel used in crafting</Data></Cell>
     <Cell><Data
                         ss:Type="String"
-                    >Дерев'яна стінова панель, яка використовується в крафті</Data></Cell>
+                    >Дерев'яна стінова панель, яка використовується в ремеслі</Data></Cell>
 </Row>
 <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data
@@ -29895,37 +29857,32 @@
                         ss:Type="String"
                     >Фрагмент у формі хрестика для гри в хрестики-нулики.</Data></Cell>
 </Row>
-        </Table>
-        <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
-            <PageSetup>
-                <Header x:Margin="0.3" />
-                <Footer x:Margin="0.3" />
-                <PageMargins
-                    x:Bottom="0.75"
-                    x:Left="0.7"
-                    x:Right="0.7"
-                    x:Top="0.75"
-                />
-            </PageSetup>
-            <Unsynced />
-            <Print>
-                <ValidPrinterInfo />
-                <PaperSizeIndex>9</PaperSizeIndex>
-                <HorizontalResolution>600</HorizontalResolution>
-                <VerticalResolution>600</VerticalResolution>
-            </Print>
-            <Selected />
-            <TopRowVisible>308</TopRowVisible>
-            <Panes>
-                <Pane>
-                    <Number>3</Number>
-                    <ActiveRow>334</ActiveRow>
-                    <ActiveCol>3</ActiveCol>
-                    <RangeSelection>R335C4:R352C4</RangeSelection>
-                </Pane>
-            </Panes>
-            <ProtectObjects>False</ProtectObjects>
-            <ProtectScenarios>False</ProtectScenarios>
-        </WorksheetOptions>
-    </Worksheet>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+    <PageSetup>
+        <Header x:Margin="0.3" />
+        <Footer x:Margin="0.3" />
+        <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75" />
+    </PageSetup>
+    <Unsynced />
+    <Print>
+        <ValidPrinterInfo />
+        <PaperSizeIndex>9</PaperSizeIndex>
+        <HorizontalResolution>600</HorizontalResolution>
+        <VerticalResolution>600</VerticalResolution>
+    </Print>
+    <Selected />
+    <TopRowVisible>308</TopRowVisible>
+    <Panes>
+        <Pane>
+            <Number>3</Number>
+            <ActiveRow>334</ActiveRow>
+            <ActiveCol>3</ActiveCol>
+            <RangeSelection>R335C4:R352C4</RangeSelection>
+        </Pane>
+    </Panes>
+    <ProtectObjects>False</ProtectObjects>
+    <ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+</Worksheet>
 </Workbook>
